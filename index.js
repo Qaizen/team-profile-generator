@@ -4,7 +4,7 @@ const Intern = require ('./lib/Intern');
 const fs = require('fs');
 const inquirer = require('inquirer');
 const employees = [];
-// const generateTeam = require('./src/page-template');
+const generateTeam = require('./src/page-template');
 
 
 function init() {
