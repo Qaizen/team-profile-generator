@@ -7,7 +7,7 @@ This project generates a webpage dsiplaying a work team's information through co
 Clone the GitHub code to your local computer and run npm install in the command line interface. 
 
 ## Usage
-Run "node index.js" in command line interface, answer input questions, and webpage generated in the distribution folder. View webpage on index.jtml
+Run "node index.js" in command line interface, answer input questions, and webpage generated in the distribution folder. View webpage on index.html
 
 ## Link to github repository
 
