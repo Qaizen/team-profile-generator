@@ -100,7 +100,7 @@ module.exports = team => {
         </div>
       </div>
       <footer class="container text-center py-3">
-        <h3 class="text-dark">&copy;2022 by Thuy Nguyen</h3>
+        <h3 class="text-dark">&copy;2023 by Nguyener</h3>
       </footer>
     </body>
     </html>
