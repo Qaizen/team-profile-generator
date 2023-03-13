@@ -15,4 +15,4 @@ Run "node index.js" in command line interface, answer input questions, and webpa
 
 ## Video Link
 
-[Video Link](https://youtu.be/JiwDQ8MsAho)
+[Video Link](https://youtu.be/7WS6c9dYBuU)
